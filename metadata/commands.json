@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/CLL.lsp",
+    "commands": [
+      "CLL"
+    ],
+    "title": "FCL 與 FFL 標高標記",
+    "category": "尺寸與註解",
+    "manual": "README.md"
+  }
+]

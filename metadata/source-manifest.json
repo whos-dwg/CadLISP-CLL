@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/CLL.lsp",
+      "bytes": 28826,
+      "sha256": "9f88e9ba7129369d6d39fdfd815511fccd1869dfd7470e8cc6a07038f9585ae3",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "CLL",
+          "line": 925
+        }
+      ]
+    }
+  ]
+}
